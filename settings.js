@@ -19,20 +19,20 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
+global.owner = ['94769747576']
+global.premium = ['94769747576']
+global.ownernomer = '94769747576'
+global.ownername = 'SHEVIN SHENALDO'
+global.botname = 'SHEVIN BOT'
+global.footer = '@shevin'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
-global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.sc = 'https://youtube.com/channel/UC6MKJhRIPSShZ5dBqp9spCw'
+global.myweb = 'https://youtube.com/channel/UC6MKJhRIPSShZ5dBqp9spCw'
+global.packname = 'Shevin RvS'
+global.author = 'Star Boy Shevin'
+global.sessionName = 'Shevin RvS'
+global.prefa = ['','!','.','👤','👤','👤']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
@@ -43,7 +43,7 @@ global.mess = {
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
     wait: 'Wait A minute...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
+    error: 'Error! Maybe Api Key Is Expired🙂!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
